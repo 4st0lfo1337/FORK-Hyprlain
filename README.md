@@ -4,7 +4,6 @@
 
 </div>
 
-
 <br><br>
 This config is just my version of the [Hyprlain](https://github.com/Ascaniolamp/Hyprlain) by Ascaniolamp Rice, that I use on my daily driver PC,
 With a few color changes and some tweaks to the Hyprland configuration, and other things to fit my style... 
@@ -20,7 +19,7 @@ distro with a style inspired by Copland-OS!
 <br><br>
 
 
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier+New&size=35&pause=999999&color=CE7688&vCenter=true&width=700&lines=╰─❮+Showcase)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier+New&size=35&pause=999999&color=CE7688&vCenter=true&width=700&lines=╰─❮+Gallery)](https://git.io/typing-svg)
 
 | <img width="1920" height="1078" alt="2026-07-26-234451_hyprshot" src="https://github.com/user-attachments/assets/e5338d6a-5661-4398-8bc8-3d0117f36659" /> | <img width="1916" height="1076" alt="2026-07-26-234612_hyprshot" src="https://github.com/user-attachments/assets/431b6cd3-3be1-47d2-8614-90d07d66f446" /> |
 |--|--|
