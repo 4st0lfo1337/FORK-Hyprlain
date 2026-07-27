@@ -51,64 +51,13 @@ distro with a style inspired by Copland-OS!
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier+New&size=35&pause=999999&color=CE7688&vCenter=true&width=700&lines=╰─❮+Requirements:)](https://git.io/typing-svg)
 ---
 
-<table>
-<tr>
-
-<td valign="top">
-
-<table>
-<tr>
-<th>Component</th>
-<th>Program</th>
-</tr>
-
-<tr>
-<td>WM</td>
-<td><a href="https://github.com/hyprwm/Hyprland">Hyprland latest version</a></td>
-</tr>
-
-<tr>
-<td>App Launcher</td>
-<td><a href="https://github.com/davatorium/rofi">Rofi</a></td>
-</tr>
-
-<tr>
-<td>Editor</td>
-<td><a href="https://github.com/zyedidia/micro">Micro</a></td>
-</tr>
-
-<tr>
-<td>Shell</td>
-<td><a href="https://github.com/fish-shell/fish-shell">Fish + Tide</a></td>
-</tr>
-
-<tr>
-<td>Bar</td>
-<td><a href="https://github.com/Alexays/Waybar">Waybar</a></td>
-</tr>
-
-<tr>
-<td>Terminal</td>
-<td><a href="https://github.com/kovidgoyal/kitty">Kitty</a></td>
-</tr>
-
-<tr>
-<td>Fetch</td>
-<td><a href="https://github.com/fastfetch-cli/fastfetch">Fastfetch</a></td>
-</tr>
-
-</table>
-
-</td>
-
-<td width="250" valign="top" align="center">
-
-<img width="150" src="https://github.com/user-attachments/assets/1d85cf4b-0245-496b-a49d-da691d0aab02" />
-
-</td>
-
-</tr>
-</table>
+- *WM* - [Hyprland latest version](https://github.com/hyprwm/Hyprland)
+- *Fetch* - [Fastfetch](https://github.com/fastfetch-cli/fastfetch)</li>
+- *Terminal* - [Kitty](https://github.com/kovidgoyal/kitty)
+- *Shell* - [Fish + Tide](https://github.com/fish-shell/fish-shell)
+- *Bar* - [Waybar](https://github.com/Alexays/Waybar)
+- *Editor* - [Micro](https://github.com/zyedidia/micro)
+- *App Launcher* - [Rofi](https://github.com/davatorium/rofi)
 
  <br><br>
  
@@ -168,3 +117,9 @@ All off the shaders that im using on the rice are not mine, are just some random
     <img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&size=25&pause=1000&color=CE7688&center=true&vCenter=true&width=600&lines=See+you+in+the+wired..." />
   </a>
 </p>
+
+
+
+
+
+<img width="150" src="https://github.com/user-attachments/assets/1d85cf4b-0245-496b-a49d-da691d0aab02" />
