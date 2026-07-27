@@ -44,6 +44,8 @@ distro with a style inspired by Copland-OS!
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier+New&size=35&pause=999999&color=CE7688&vCenter=true&width=700&lines=╰─❮+Apps:)](https://git.io/typing-svg)
 ---
 
+<div>
+
 | Component | Progams |
 |---|---|
 | App Launcher | [Rofi](https://github.com/davatorium/rofi) |
@@ -51,6 +53,7 @@ distro with a style inspired by Copland-OS!
 | Shell | [Fish + Tide-configure](http://github.com/fish-shell/fish-shell) |
 | Bar | [Waybar](https://github.com/alexays/waybar) |
 
+</div>
 
 <br><br>
 
