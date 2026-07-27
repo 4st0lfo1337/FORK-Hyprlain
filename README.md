@@ -6,7 +6,8 @@
 
 <br><br>
 This config is just my version of the [Hyprlain](https://github.com/Ascaniolamp/Hyprlain) by Ascaniolamp Rice, that I use on my daily driver PC,
-With a few color changes and some tweaks to the Hyprland configuration, and other things to fit my style... If you're looking for the complete 
+With a few color changes and some tweaks to the Hyprland configuration, and other things to fit my style... 
+If you're looking for the complete 
 setup with GTK themes, sddm Theme, and more, I highly recommend visit the original Hyprlain repository.
 
 If you like Lain and Linux as much as I do, check out the [LainOS project](https://www.reddit.com/r/LainOSdevelopers/) An Arch-based, privacy-focused
