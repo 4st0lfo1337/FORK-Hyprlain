@@ -6,10 +6,12 @@
 
 <br><br>
 This config is just my version of the [Hyprlain](https://github.com/Ascaniolamp/Hyprlain) by Ascaniolamp Rice, that I use on my daily driver PC,
-With a few color changes and some tweaks to the Hyprland configuration, and other things to fit my style... 
+With a few color changes and some tweaks to the Hyprland configuration, and other things to fit my style... If you're looking for the complete 
+setup with GTK themes, sddm Theme, and more, please visit the original Hyprlain repository.
 
 If you like Lain and Linux as much as I do, check out the [LainOS project](https://www.reddit.com/r/LainOSdevelopers/) An Arch-based, privacy-focused
-distro with a style inspired by Copland-OS! 
+distro with a style inspired by Copland-OS!
+
 > [!IMPORTANT]
 > I only use the Super + C and Super + R keybindings because
 > I use multiple monitors, you don't need to use these keys if you use a single monitor.
