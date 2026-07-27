@@ -52,6 +52,7 @@ distro with a style inspired by Copland-OS!
 | Editor | [Micro](https://github.com/micro-editor/MICRO) |
 | Shell | [Fish + Tide-configure](http://github.com/fish-shell/fish-shell) |
 | Bar | [Waybar](https://github.com/alexays/waybar) |
+| Terminal | [Kitty](https://github.com/kovidgoyal/kitty) |
 
 </div>
 
