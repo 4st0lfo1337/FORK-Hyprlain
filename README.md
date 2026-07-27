@@ -1,4 +1,3 @@
-
 <div align="center">
 
 <img  width="100" src="https://github.com/user-attachments/assets/8df531d8-a59c-41af-b6fa-a129099b9149" /><a id=-Alice>
@@ -34,7 +33,7 @@ distro with a style inspired by Copland-OS!
 <div align="center">
     <a href="https://youtu.be/3uQDOzU91Qc">
         <img
-            src="https://img.youtube.com/vi/3uQDOzU91Qc/maxresdefault.jpg"
+            src="https://github.com/user-attachments/assets/9deed113-7a6f-49ab-a371-3cedfdfabf59"
             width="900"
             alt="Watch on YouTube">
     </a>
