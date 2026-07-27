@@ -48,7 +48,7 @@ distro with a style inspired by Copland-OS!
 |---|---|
 | App Launcher | [Rofi](https://github.com/davatorium/rofi) |
 | Editor | [Micro](https://github.com/micro-editor/MICRO) |
-| Shell | Fish + [Tide-configure](http://github.com/fish-shell/fish-shell) |
+| Shell | [Fish + Tide-configure](http://github.com/fish-shell/fish-shell) |
 | Bar | [Waybar](https://github.com/alexays/waybar) |
 
 
