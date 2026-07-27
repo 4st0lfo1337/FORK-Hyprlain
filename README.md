@@ -64,7 +64,7 @@ distro with a style inspired by Copland-OS!
 
 <tr>
 <td>WM</td>
-<td><a href="https://github.com/hyprwm/Hyprland">Hyprland</a></td>
+<td><a href="https://github.com/hyprwm/Hyprland">Hyprland latest version</a></td>
 </tr>
 
 <tr>
