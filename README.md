@@ -51,8 +51,10 @@ distro with a style inspired by Copland-OS!
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier+New&size=35&pause=999999&color=CE7688&vCenter=true&width=700&lines=╰─❮+Requirements:)](https://git.io/typing-svg)
 ---
 
+<img align="right" width="130" src="https://github.com/user-attachments/assets/1d85cf4b-0245-496b-a49d-da691d0aab02"/>
+
 - *WM* - [Hyprland latest version](https://github.com/hyprwm/Hyprland)
-- *Fetch* - [Fastfetch](https://github.com/fastfetch-cli/fastfetch)</li>
+- *Fetch* - [Fastfetch](https://github.com/fastfetch-cli/fastfetch)
 - *Terminal* - [Kitty](https://github.com/kovidgoyal/kitty)
 - *Shell* - [Fish + Tide](https://github.com/fish-shell/fish-shell)
 - *Bar* - [Waybar](https://github.com/Alexays/Waybar)
@@ -117,9 +119,3 @@ All off the shaders that im using on the rice are not mine, are just some random
     <img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&size=25&pause=1000&color=CE7688&center=true&vCenter=true&width=600&lines=See+you+in+the+wired..." />
   </a>
 </p>
-
-
-
-
-
-<img width="150" src="https://github.com/user-attachments/assets/1d85cf4b-0245-496b-a49d-da691d0aab02" />
