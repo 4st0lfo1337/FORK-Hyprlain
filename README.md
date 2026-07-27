@@ -21,16 +21,11 @@ distro with a style inspired by Copland-OS!
 <br><br>
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier+New&size=35&pause=999999&color=CE7688&vCenter=true&width=700&lines=╰─❮+Showcase+(Video))](https://git.io/typing-svg)
----
-<div align="center">
-    <a href="https://youtu.be/3uQDOzU91Qc">
-        <img
-            src="https://img.youtube.com/vi/3uQDOzU91Qc/maxresdefault.jpg"
-            width="900"
-            alt="Watch on YouTube">
-    </a>
-</div>
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier+New&size=35&pause=999999&color=CE7688&vCenter=true&width=700&lines=╰─❮+Showcase)](https://git.io/typing-svg)
+
+| <img width="1920" height="1078" alt="2026-07-26-234451_hyprshot" src="https://github.com/user-attachments/assets/e5338d6a-5661-4398-8bc8-3d0117f36659" /> | <img width="1916" height="1076" alt="2026-07-26-234612_hyprshot" src="https://github.com/user-attachments/assets/431b6cd3-3be1-47d2-8614-90d07d66f446" /> |
+|--|--|
+| <img width="1918" height="1078" alt="2026-07-26-234710_hyprshot" src="https://github.com/user-attachments/assets/c615218a-06fc-4c4b-a097-2621880ecf63" /> | <img width="1918" height="1077" alt="2026-07-26-235011_hyprshot" src="https://github.com/user-attachments/assets/12eb37a6-6652-4969-90f1-d12c7c02ab92" /> |
 
 <br><br>
 
