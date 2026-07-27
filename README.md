@@ -43,18 +43,20 @@ distro with a style inspired by Copland-OS!
 
 <br><br>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier+New&size=35&pause=999999&color=CE7688&vCenter=true&width=700&lines=╰─❮+Apps:)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier+New&size=35&pause=999999&color=CE7688&vCenter=true&width=700&lines=╰─❮+Requirements:)](https://git.io/typing-svg)
 ---
 
 <div>
 
 | Component | Progams |
 |---|---|
+| WM | [*latest version of* Hyprland](https://github.com/hyprwm/hyprland) | 
 | App Launcher | [Rofi](https://github.com/davatorium/rofi) |
 | Editor | [Micro](https://github.com/micro-editor/MICRO) |
 | Shell | [Fish + Tide-configure](http://github.com/fish-shell/fish-shell) |
 | Bar | [Waybar](https://github.com/alexays/waybar) |
 | Terminal | [Kitty](https://github.com/kovidgoyal/kitty) |
+| Fetch | [Fastfetch](https://github.com/fastfetch-cli/fastfetch) |
 
 </div>
 
