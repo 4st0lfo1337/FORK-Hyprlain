@@ -44,7 +44,7 @@ distro with a style inspired by Copland-OS!
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier+New&size=35&pause=999999&color=CE7688&vCenter=true&width=700&lines=╰─❮+Apps:)](https://git.io/typing-svg)
 ---
 
-| Progams | URL |
+| Component | Progams |
 |---|---|
 | App Launcher | [Rofi](https://github.com/davatorium/rofi) |
 | Editor | [Micro](https://github.com/micro-editor/MICRO) |
