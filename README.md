@@ -31,7 +31,14 @@ distro with a style inspired by Copland-OS!
 
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier+New&size=35&pause=999999&color=CE7688&vCenter=true&width=700&lines=╰─❮+Shaders+Showcase)](https://git.io/typing-svg)
 
-
+<div align="center">
+    <a href="https://youtu.be/3uQDOzU91Qc">
+        <img
+            src="https://img.youtube.com/vi/3uQDOzU91Qc/maxresdefault.jpg"
+            width="900"
+            alt="Watch on YouTube">
+    </a>
+</div>
 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier+New&size=35&pause=999999&color=CE7688&vCenter=true&width=700&lines=╰─❮+Rofi+config:)](https://git.io/typing-svg)
