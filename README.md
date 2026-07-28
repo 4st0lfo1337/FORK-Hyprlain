@@ -59,7 +59,7 @@ An Arch-based, privacy-focused distribution inspired by the aesthetics of Coplan
 - Custom Hyprland Workspace Animations;
 - Border Animations;
 - Cleaner Blur;
-- Colection of Screen Shaders;
+- Colection of Screen Shaders.
 
 <br><br>
 
