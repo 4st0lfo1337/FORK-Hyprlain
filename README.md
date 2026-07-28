@@ -24,7 +24,7 @@ An Arch-based, privacy-focused distribution inspired by the aesthetics of Coplan
 > I only use the Super + C and Super + R keybindings because
 > I use multiple monitors, you don't need to use these keys if you use a single monitor.
 > 
-> *This Hyprland setup is running in CachyOS*
+> *This Hyprland 0.56.0 setup is running in CachyOS*
 
 <br><br>
 
@@ -53,6 +53,7 @@ An Arch-based, privacy-focused distribution inspired by the aesthetics of Coplan
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier+New&size=35&pause=999999&color=CE7688&vCenter=true&width=700&lines=╰─❮+Content:)](https://git.io/typing-svg)
 ---
 
+- Updated Hyprland configuration;
 - Micro Custom Lain Theme;
 - Cava Theme;
 - LainOS Fastfetch;
