@@ -19,7 +19,7 @@
 This config is just my version of the [Hyprlain](https://github.com/Ascaniolamp/Hyprlain) by Ascaniolamp Rice, that I use on my daily driver PC,
 With a few color changes and some tweaks to the Hyprland configuration, and other things to fit my style... 
 If you're looking for the complete 
-setup with GTK themes, sddm Theme, Animated Wallpapers, and more, I highly recommend visit the original Hyprlain repository.
+setup with GTK themes, sddm Theme, Animated Wallpapers, and more, I highly recommend visiting the original Hyprlain repository.
 
 If you like Lain and Linux as much as I do, check out the [LainOS project](https://www.reddit.com/r/LainOSdevelopers/) An Arch-based, privacy-focused
 distro with a style inspired by Copland-OS!
@@ -54,7 +54,7 @@ distro with a style inspired by Copland-OS!
 
 <br><br>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier+New&size=35&pause=999999&color=CE7688&vCenter=true&width=700&lines=╰─❮+Requirements:)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier+New&size=35&pause=999999&color=CE7688&vCenter=true&width=700&lines=╰─❮+Applications:)](https://git.io/typing-svg)
 ---
 
 <img align="right" width="130" src="https://github.com/user-attachments/assets/1d85cf4b-0245-496b-a49d-da691d0aab02"/>
@@ -76,9 +76,8 @@ distro with a style inspired by Copland-OS!
 
 > [!NOTE]
 >I have made a repo just for my Rofi Config, also based in the Hyprlain rice.
-<ul>
-  <li>https://github.com/4st0lfo1337/RofiConfig</li>
-</ul>
+
+- **Repository -** https://github.com/4st0lfo1337/RofiConfig
 
  <br><br>
 
@@ -99,7 +98,7 @@ distro with a style inspired by Copland-OS!
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier+New&size=35&pause=999999&color=CE7688&vCenter=true&width=700&lines=╰─❮+Shaders+source:)](https://git.io/typing-svg)
 ---
 
-All off the shaders that im using on the rice are not mine, are just some random shaders that i found on reddit or github, with some tweaks i made.
+All of the shaders that im using on the rice are not mine, are just some random shaders that i found on reddit or github, with some tweaks i made.
 <ul>
   <li>https://github.com/hyprwm/Hyprland/issues/1140</li>
   <li>https://www.reddit.com/r/hyprland/comments/1n3i18s/hyprland_screen_shaders_ctr_effect_cracking/</li>
