@@ -61,8 +61,8 @@ distro with a style inspired by Copland-OS!
 - *Editor* - [Micro](https://github.com/zyedidia/micro)
 - *App Launcher* - [Rofi](https://github.com/davatorium/rofi)
 
- <br><br>
- 
+<br clear="right">
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier+New&size=35&pause=999999&color=CE7688&vCenter=true&width=700&lines=╰─❮+Rofi+config:)](https://git.io/typing-svg)
 ---
 
@@ -86,7 +86,7 @@ distro with a style inspired by Copland-OS!
 - [HyDE](https://github.com/HyDE-Project/HyDE)
 
 
-<br><br>
+<br clear="right">
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier+New&size=35&pause=999999&color=CE7688&vCenter=true&width=700&lines=╰─❮+Shaders+source:)](https://git.io/typing-svg)
 ---
