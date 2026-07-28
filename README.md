@@ -50,6 +50,19 @@ An Arch-based, privacy-focused distribution inspired by the aesthetics of Coplan
 
 <br><br>
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier+New&size=35&pause=999999&color=CE7688&vCenter=true&width=700&lines=╰─❮+Content:)](https://git.io/typing-svg)
+---
+
+- Micro Custom Lain Theme;
+- Cava Theme;
+- LainOS Fastfetch;
+- Custom Hyprland Workspace Animations;
+- Border Animations;
+- Cleaner Blur;
+- Colection of Screen Shaders;
+
+<br><br>
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier+New&size=35&pause=999999&color=CE7688&vCenter=true&width=700&lines=╰─❮+Software+Used:)](https://git.io/typing-svg)
 ---
 
