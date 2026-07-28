@@ -17,7 +17,7 @@
 
 <br><br>
 This config is just my version of the [Hyprlain](https://github.com/Ascaniolamp/Hyprlain) by Ascaniolamp Rice, that I use on my daily driver PC,
-With a few color changes and some tweaks to the Hyprland configuration, and other things to fit my style... 
+With a few color changes, some Hyprland configuration tweaks, and a handful of other modifications to better fit my style...
 If you're looking for the complete 
 setup with GTK themes, sddm Theme, Animated Wallpapers, and more, I highly recommend visiting the original Hyprlain repository.
 
