@@ -66,7 +66,8 @@ distro with a style inspired by Copland-OS!
 - *Bar* - [Waybar](https://github.com/Alexays/Waybar)
 - *Editor* - [Micro](https://github.com/zyedidia/micro)
 - *App Launcher* - [Rofi](https://github.com/davatorium/rofi)
-- *Audio visualizer* - [Cava](https://github.com/karlstav/cava)
+- *Audio Visualizer* - [Cava](https://github.com/karlstav/cava)
+- *System Monitor* - [Bottom](https://github.com/clementtsang/bottom) 
 
 <br clear="right">
 
