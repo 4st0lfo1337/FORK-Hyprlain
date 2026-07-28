@@ -22,7 +22,7 @@ If you're looking for the complete
 setup with GTK themes, sddm Theme, Animated Wallpapers, and more, I highly recommend visiting the original Hyprlain repository.
 
 If you like Lain and Linux as much as I do, check out the [LainOS project](https://www.reddit.com/r/LainOSdevelopers/)
-An Arch-based, privacy-focused distribution inspired by the aesthetics of Copland-OS.
+An Arch-based, privacy-focused distribution inspired by the aesthetics of Copland-OS!
 
 > [!IMPORTANT]
 > I only use the Super + C and Super + R keybindings because
