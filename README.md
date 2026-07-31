@@ -133,7 +133,6 @@ All of the shaders that im using on the rice are not mine, are just some random 
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&size=30&pause=999999&color=CE7688&center=true&vCenter=true&width=600&lines=<3" />
 
-<br><br>
 
 ---
 
