@@ -129,6 +129,8 @@ All of the shaders that im using on the rice are not mine, are just some random 
 - How to install The hypr-sounds script;
 - Bug fixes for the hypr-sounds.
 
+<br><br>
+
 ---
 
 <div align="center">
