@@ -124,10 +124,11 @@ All of the shaders that im using on the rice are not mine, are just some random 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier+New&size=35&pause=999999&color=CE7688&vCenter=true&width=700&lines=╰─❮+Future+updates:)](https://git.io/typing-svg)
 ---
 
-- Zsh Shell Lain Theme;
-- Zsh Shell Config + Plugins;
+- Bug fixes for the hypr-sounds, and for it to detect only your actions;
 - How to install The hypr-sounds script via Cargo;
-- Bug fixes for the hypr-sounds, and for it to detect only your actions.
+- Zsh Shell Config + Plugins;
+- Zsh Shell Lain Theme.
+
 
 <p align="center">
   <a href="https://git.io/typing-svg">
