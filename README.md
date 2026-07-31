@@ -127,7 +127,7 @@ All of the shaders that im using on the rice are not mine, are just some random 
 - Zsh Shell Lain Theme;
 - Zsh Shell Config + Plugins;
 - How to install The hypr-sounds script via Cargo;
-- Bug fixes for the hypr-sounds.
+- Bug fixes for the hypr-sounds, and for it to detect only your actions.
 
 <p align="center">
   <a href="https://git.io/typing-svg">
