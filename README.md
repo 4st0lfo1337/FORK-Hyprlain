@@ -19,7 +19,7 @@ This config is just my version of the [Hyprlain](https://github.com/Ascaniolamp/
 With a few color changes, some Hyprland configuration tweaks, and a handful of other modifications to better fit my style...
 If you're looking for the complete setup with GTK themes, sddm Theme, Animated Wallpapers, and more, I highly recommend visiting the original Hyprlain repository.
 
-If you like Lain and Linux as much as I do, check out the [LainOS project](https://www.reddit.com/r/LainOSdevelopers/)
+If you like Lain and Linux as much as I do, check out the [LainOS project](https://gitlab.com/lainos)
 An Arch-based, privacy-focused distribution inspired by the aesthetics of Copland-OS!
 
 > [!IMPORTANT]
