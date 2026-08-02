@@ -73,6 +73,7 @@ An Arch-based, privacy-focused distribution inspired by the aesthetics of Coplan
 - *Fetch* - [Fastfetch](https://github.com/fastfetch-cli/fastfetch)
 - *Terminal* - [Kitty](https://github.com/kovidgoyal/kitty)
 - *Shell* - [Zsh](https://github.com/ohmyzsh/ohmyzsh)
+- *Prompt* - [p10k](https://github.com/romkatv/powerlevel10k) 
 - *Bar* - [Waybar](https://github.com/Alexays/Waybar)
 - *Editor* - [Micro](https://github.com/zyedidia/micro)
 - *App Launcher* - [Rofi](https://github.com/davatorium/rofi)
