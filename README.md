@@ -13,6 +13,8 @@
 ---
 
 <br><br>
+Inspired by 1998 anime [Serial Experiments Lain](https://en.wikipedia.org/wiki/Serial_Experiments_Lain),
+
 This config is just my version of the [Hyprlain](https://github.com/Ascaniolamp/Hyprlain) by Ascaniolamp Rice, that I use on my daily driver PC,
 With a few color changes, some Hyprland configuration tweaks, and a handful of other modifications to better fit my style...
 If you're looking for the complete setup with GTK themes, sddm Theme, Animated Wallpapers, and more, I highly recommend visiting the original Hyprlain repository.
