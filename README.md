@@ -130,6 +130,7 @@ All of the shaders that im using on the rice are not mine, are just some random 
 - How to install The hypr-sounds script via Cargo;
 - Zsh Shell Config + Plugins;
 - Zsh Shell Lain Theme.
+- Hyprland Lua Config.
 
 
 <p align="center">
