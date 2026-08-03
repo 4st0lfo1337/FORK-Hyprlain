@@ -66,6 +66,27 @@ An Arch-based, privacy-focused distribution inspired by the aesthetics of Coplan
 
 <br><br>
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier+New&size=35&pause=999999&color=CE7688&vCenter=true&width=700&lines=╰─❮+Install+hypr-sounds:)](https://git.io/typing-svg)
+---
+> [!IMPORTANT]
+>Place your sound files in `~/.config/hypr/sounds`. Then, edit `main.rs` and configure the open and close sound files to match the filenames in that directory.
+
+After, realese the shortcut for the script using this comands:
+
+```
+cd /Fork-Hyprlain/hypr-sounds
+Cargo build --realese
+```
+Place the `hypr-sounds` executable in the `~/.config/hypr/scripts` directory.
+
+To run the script automatically when Hyprland starts, add the following line to your Hyprland configuration file:
+
+```ini
+exec-once = ~/.config/hypr/scripts/hypr-sounds
+```
+
+<br><br>
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier+New&size=35&pause=999999&color=CE7688&vCenter=true&width=700&lines=╰─❮+Software+Used:)](https://git.io/typing-svg)
 ---
 
