@@ -69,8 +69,10 @@ An Arch-based, privacy-focused distribution inspired by the aesthetics of Coplan
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier+New&size=35&pause=999999&color=CE7688&vCenter=true&width=700&lines=╰─❮+Install+hypr-sounds:)](https://git.io/typing-svg)
 ---
 
-Git clone this repo: `git clone https://github.com/4st0lfo1337/FORK-Hyprlain.git`
-
+Git clone this repo:
+```
+git clone https://github.com/4st0lfo1337/FORK-Hyprlain.git
+```
 > [!IMPORTANT]
 >Place your sound files in `~/.config/hypr/sounds`. Then, edit `main.rs` and configure the open and close sound files to match the filenames in that directory.
 
