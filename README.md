@@ -54,6 +54,7 @@ An Arch-based, privacy-focused distribution inspired by the aesthetics of Coplan
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier+New&size=35&pause=999999&color=CE7688&vCenter=true&width=700&lines=╰─❮+Content:)](https://git.io/typing-svg)
 ---
+As I said before, this is just a Fork, but what does it add?
 
 - Updated Hyprland configuration;
 - Micro Custom Lain Theme;
