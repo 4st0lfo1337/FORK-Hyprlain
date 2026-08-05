@@ -108,6 +108,10 @@ exec-once = ~/.config/hypr/scripts/hypr-sounds
 - *App Launcher* - [Rofi](https://github.com/davatorium/rofi)
 - *Audio Visualizer* - [Cava](https://github.com/karlstav/cava)
 - *System Monitor* - [Bottom](https://github.com/clementtsang/bottom) 
+> [!CAUTION]
+> Zsh Dependency
+`paru -S zsh neovim micro eza bat fd fzf zoxide starship ripgrep`
+
 
 <br clear="right">
 
@@ -131,7 +135,6 @@ exec-once = ~/.config/hypr/scripts/hypr-sounds
 - [Lain Linux Rice](https://github.com/FlexUnder/Lain-linux-rice)
 - [LainOS Ricer Arch](https://github.com/The-LainOS-Project/LainOS-ricer-arch)
 - [HyDE](https://github.com/HyDE-Project/HyDE)
-
 
 <br clear="right">
 
