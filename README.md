@@ -63,7 +63,7 @@ As I said before, this is just a Fork, but what does it add?
 - Custom Hyprland Workspace Animations;
 - Border Animations;
 - Cleaner Blur;
-- Colection of Screen Shaders.
+- Collection of Screen Shaders.
 
 <br><br>
 
@@ -77,11 +77,11 @@ git clone https://github.com/4st0lfo1337/FORK-Hyprlain.git
 > [!IMPORTANT]
 >Place your sound files in `~/.config/hypr/sounds`. Then, edit `main.rs` and configure the open and close sound files to match the filenames in that directory.
 
-After, realese the shortcut for the script using this comands:
+After, release the shortcut for the script using this comands:
 
 ```
 cd /Fork-Hyprlain/hypr-sounds
-Cargo build --realese
+cargo build --release
 ```
 Place the `hypr-sounds` executable in the `~/.config/hypr/scripts` directory.
 
