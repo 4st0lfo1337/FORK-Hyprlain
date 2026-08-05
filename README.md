@@ -98,6 +98,10 @@ exec-once = ~/.config/hypr/scripts/hypr-sounds
 
 <img align="right" width="130" src="https://github.com/user-attachments/assets/1d85cf4b-0245-496b-a49d-da691d0aab02"/>
 
+> [!CAUTION]
+> Zsh Dependency
+`paru -S zsh neovim micro eza bat fd fzf zoxide starship ripgrep`
+> 
 - *WM* - [Hyprland latest version](https://github.com/hyprwm/Hyprland)
 - *Fetch* - [Fastfetch](https://github.com/fastfetch-cli/fastfetch)
 - *Terminal* - [Kitty](https://github.com/kovidgoyal/kitty)
@@ -108,10 +112,6 @@ exec-once = ~/.config/hypr/scripts/hypr-sounds
 - *App Launcher* - [Rofi](https://github.com/davatorium/rofi)
 - *Audio Visualizer* - [Cava](https://github.com/karlstav/cava)
 - *System Monitor* - [Bottom](https://github.com/clementtsang/bottom) 
-> [!CAUTION]
-> Zsh Dependency
-`paru -S zsh neovim micro eza bat fd fzf zoxide starship ripgrep`
-
 
 <br clear="right">
 
