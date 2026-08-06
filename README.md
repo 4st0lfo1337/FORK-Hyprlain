@@ -63,7 +63,8 @@ As I said before, this is just a Fork, but what does it add?
 - Custom Hyprland Workspace Animations;
 - Border Animations;
 - Cleaner Blur;
-- Collection of Screen Shaders.
+- Collection of Screen Shaders;
+- Zsh Config.
 
 <br><br>
 
