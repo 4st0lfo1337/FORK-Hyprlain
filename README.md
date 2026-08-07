@@ -43,7 +43,7 @@ An Arch-based, privacy-focused distribution inspired by the aesthetics of Coplan
 
 | Shaders | Hypr-Sounds |
 | :--------: | :------------: |
-| <a href="https://youtu.be/3uQDOzU91Qc"><img src="https://github.com/user-attachments/assets/a77992c9-6a9c-43a1-a9bb-a0eeab01f100" width="450" alt="Shaders"></a> | <a href="https://img.youtube.com/vi/e8ihUREKLTs/maxresdefault.jpg"><img src="https://img.youtube.com/vi/e8ihUREKLTs/maxresdefault.jpg" width="450" alt="Hypr-Sounds"></a> |
+| <a href="https://youtu.be/3uQDOzU91Qc"><img src="https://github.com/user-attachments/assets/a77992c9-6a9c-43a1-a9bb-a0eeab01f100" width="450" alt="Shaders"></a> | <a href="https://youtu.be/e8ihUREKLTs"><img src="https://img.youtube.com/vi/e8ihUREKLTs/maxresdefault.jpg" width="450" alt="Hypr-Sounds"></a> |
 
 
 
