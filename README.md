@@ -66,11 +66,11 @@ As I said before, this is just a Fork, but what does it add?
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier+New&size=35&pause=999999&color=CE7688&vCenter=true&width=700&lines=╰─❮+Hypr-sounds:)](https://git.io/typing-svg)
 ---
 
- **How it Works?**
+- **How it Works?**
 
 Hypr-sounds is a script built in Rust that plays a sound every time you open a new window in Hyprland.
 
- **installation:**
+- **installation:**
 
 Git clone this repo:
 ```
