@@ -166,7 +166,6 @@ All of the shaders that im using on the rice are not mine, are just some random 
 - Zsh Shell Lain Theme;
 - Hyprland Lua Config;
 - Install.sh script;
-- Video preview for hypr-sounds.
 
 
 <p align="center">
