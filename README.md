@@ -45,10 +45,6 @@ An Arch-based, privacy-focused distribution inspired by the aesthetics of Coplan
 | :--------: | :------------: |
 | <a href="https://youtu.be/3uQDOzU91Qc"><img src="https://github.com/user-attachments/assets/a77992c9-6a9c-43a1-a9bb-a0eeab01f100" width="450" alt="Shaders"></a> | <a href="https://youtu.be/e8ihUREKLTs"><img src="https://img.youtube.com/vi/e8ihUREKLTs/maxresdefault.jpg" width="450" alt="Hypr-Sounds"></a> |
 
-
-
-
-
 <br><br>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier+New&size=35&pause=999999&color=CE7688&vCenter=true&width=700&lines=╰─❮+Content:)](https://git.io/typing-svg)
