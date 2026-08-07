@@ -165,7 +165,7 @@ All of the shaders that im using on the rice are not mine, are just some random 
 - Zsh Shell Config + Plugins;
 - Zsh Shell Lain Theme;
 - Hyprland Lua Config;
-- Install.sh script;
+- Install.sh script.
 
 
 <p align="center">
