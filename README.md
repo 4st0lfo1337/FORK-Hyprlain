@@ -2,7 +2,8 @@
    <img  width="100" src="https://github.com/user-attachments/assets/8df531d8-a59c-41af-b6fa-a129099b9149" /><a id=-Alice>
 </div>
 
-<div align="center">   
+<div align="center">
+   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier+New&size=35&pause=999999&color=CE7688&vCenter=true&width=700&lines=【+4st0lfo1337+-+HyprlainFork+】)](https://git.io/typing-svg)
 </div>
 
