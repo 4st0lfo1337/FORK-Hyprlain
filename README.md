@@ -161,8 +161,6 @@ All of the shaders that im using on the rice are not mine, are just some random 
 ---
 
 - Bug fixes for the hypr-sounds, and for it to detect only your actions;
-- Zsh Shell Config + Plugins;
-- Zsh Shell Lain Theme;
 - Hyprland Lua Config;
 - Install.sh script.
 
