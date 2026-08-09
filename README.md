@@ -1,18 +1,15 @@
 <div align="center">
-
-<img  width="100" src="https://github.com/user-attachments/assets/8df531d8-a59c-41af-b6fa-a129099b9149" /><a id=-Alice>
-
+   <img  width="100" src="https://github.com/user-attachments/assets/8df531d8-a59c-41af-b6fa-a129099b9149" /><a id=-Alice>
 </div>
 
-<div align="center">
-   
+<div align="center">   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier+New&size=35&pause=999999&color=CE7688&vCenter=true&width=700&lines=【+4st0lfo1337+-+HyprlainFork+】)](https://git.io/typing-svg)
-
 </div>
 
 ---
 
 <br><br>
+
 Inspired by 1998 anime [Serial Experiments Lain](https://en.wikipedia.org/wiki/Serial_Experiments_Lain),
 
 This config is just my version of the [Hyprlain](https://github.com/Ascaniolamp/Hyprlain) by Ascaniolamp Rice, that I use on my daily driver PC,
@@ -98,7 +95,8 @@ exec-once = ~/.config/hypr/scripts/hypr-sounds
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier+New&size=35&pause=999999&color=CE7688&vCenter=true&width=700&lines=╰─❮+Software+Used:)](https://git.io/typing-svg)
 ---
 
-<img align="right" width="130" src="https://github.com/user-attachments/assets/1d85cf4b-0245-496b-a49d-da691d0aab02"/>
+<img align="right" width="130" 
+   src="https://github.com/user-attachments/assets/1d85cf4b-0245-496b-a49d-da691d0aab02"/>
 
 - *WM* - [Hyprland latest version](https://github.com/hyprwm/Hyprland)
 - *Fetch* - [Fastfetch](https://github.com/fastfetch-cli/fastfetch)
@@ -131,7 +129,8 @@ paru -S zsh neovim micro eza bat fd fzf zoxide starship ripgrep
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier+New&size=35&pause=999999&color=CE7688&vCenter=true&width=700&lines=╰─❮+Based+on+these+repositories:)](https://git.io/typing-svg)
 ---
 
-<img align="right" width="230" src="https://github.com/user-attachments/assets/8775c18c-5e3f-4635-91b8-9f62f25d789c"/>
+<img align="right" width="230" 
+   src="https://github.com/user-attachments/assets/8775c18c-5e3f-4635-91b8-9f62f25d789c"/>
 
 - [Hyprlain](https://github.com/Ascaniolamp/Hyprlain)
 - [lain-i3wm](https://github.com/cynaax/lain-i3wm)
