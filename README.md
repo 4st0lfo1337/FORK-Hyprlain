@@ -100,6 +100,7 @@ exec-once = ~/.config/hypr/scripts/hypr-sounds
    src="https://github.com/user-attachments/assets/1d85cf4b-0245-496b-a49d-da691d0aab02"/>
 
 - *WM* - [Hyprland latest version](https://github.com/hyprwm/Hyprland)
+- *File Manager* - [Yazi]([https://github.com/fastfetch-cli/fastfetch](https://github.com/sxyazi/yazi))
 - *Fetch* - [Fastfetch](https://github.com/fastfetch-cli/fastfetch)
 - *Terminal* - [Kitty](https://github.com/kovidgoyal/kitty)
 - *Shell* - [Zsh](https://github.com/ohmyzsh/ohmyzsh)
