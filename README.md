@@ -163,8 +163,8 @@ All of the shaders that im using on the rice are not mine, are just some random 
 
 - Bug fixes for the hypr-sounds, and for it to detect only your actions;
 - Hyprland Lua Config;
-- Install.sh script.
-
+- Install.sh script;
+- nvim theme.
 
 <p align="center">
   <a href="https://git.io/typing-svg">
