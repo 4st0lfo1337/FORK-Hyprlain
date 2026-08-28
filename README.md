@@ -89,7 +89,7 @@ Place the `hypr-sounds` executable in the `~/.config/hypr/scripts` directory.
 
 To run the script automatically when Hyprland starts, add the following line to your Hyprland configuration file:
 
-```ini
+```conf
 exec-once = ~/.config/hypr/scripts/hypr-sounds
 ```
 
@@ -156,7 +156,7 @@ All of the shaders that im using on the rice are not mine, are just some random 
 
 > [!CAUTION]
 >To use the shaders, you need to uncomment
->the line "damage_tracking = 0" in debug.
+>the line `damage_tracking = 0` in debug.
 
 <br><br>
 
