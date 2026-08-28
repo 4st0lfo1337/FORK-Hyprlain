@@ -71,15 +71,17 @@ Hypr-sounds is a script built in Rust that plays a sound every time you open a n
 - **installation:**
 
 Git clone this repo:
-```
+```bash
+
 git clone <repository-url>
 ```
+
 > [!IMPORTANT]
 >Place your sound files in `~/.config/hypr/sounds`. Then, edit `main.rs` and configure the open and close sound files to match the filenames in that directory.
 
 After, release the shortcut for the script using this comands:
 
-```
+```bash
 cd /Fork-Hyprlain/hypr-sounds
 cargo build --release
 ```
@@ -112,7 +114,7 @@ exec-once = ~/.config/hypr/scripts/hypr-sounds
 - *System Monitor* - [Bottom](https://github.com/clementtsang/bottom) 
 
 Zsh Dependency:
-```
+```bash
 paru -S zsh neovim micro eza bat fd fzf zoxide starship ripgrep
 ```
 
