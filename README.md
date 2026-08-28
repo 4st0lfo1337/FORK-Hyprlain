@@ -72,7 +72,7 @@ Hypr-sounds is a script built in Rust that plays a sound every time you open a n
 
 Git clone this repo:
 ```
-git clone https://github.com/4st0lfo1337/FORK-Hyprlain.git
+git clone <repository-url>
 ```
 > [!IMPORTANT]
 >Place your sound files in `~/.config/hypr/sounds`. Then, edit `main.rs` and configure the open and close sound files to match the filenames in that directory.
